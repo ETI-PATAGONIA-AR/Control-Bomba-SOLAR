@@ -1,4 +1,5 @@
-[CtrlBOMBA_SOLAR.bmp](https://github.com/user-attachments/files/23813669/CtrlBOMBA_SOLAR.bmp)
+
+<img width="1511" height="1011" alt="circuito_CtrlBombaSOLAR" src="https://github.com/user-attachments/assets/34e64132-9802-4f22-80a7-05fad6e2eb32" />
 
 En este desarrollo, trabaje un diseño que pueda proporcionarle a una bomba solar todas las protecciones que no traen estos equipos de fabrica.
 En esta version, sume protecciones por sobrecorriente y baja tension... 
